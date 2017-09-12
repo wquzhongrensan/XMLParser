@@ -1,0 +1,19 @@
+/* 
+  xml_data.xml
+  XMLParser
+
+  Created by AppsComm on 2017/9/12.
+  Copyright © 2017年 quzhongrensan. All rights reserved.
+*/
+
+<?xml version="1.0" encoding="utf-8" ?>
+<Result>
+    <VALUE>
+        <NO DATE="2015">A1</NO>
+        <ADDR>GZ</ADDR>
+    </VALUE>
+    <VALUE>
+        <NO DATE="2014">A2</NO>
+        <ADDR>XG</ADDR>
+    </VALUE>
+</Result>
